@@ -1,0 +1,115 @@
+{
+    "properties": [
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "kUserSettingName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 29, 
+                "line": 3
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "kCollabGroupSettingName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 29, 
+                "line": 4
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "kUserId", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 23, 
+                "line": 5
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "kUserName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 23, 
+                "line": 6
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "kCollabGroupId", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 23, 
+                "line": 7
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "kCollabGroupName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 23, 
+                "line": 8
+            }, 
+            "type": "String"
+        }
+    ], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [
+        {
+            "modifiers": [], 
+            "name": "AskItServices", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 9, 
+                "line": 10
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": "askit", 
+    "name": "AskItServices", 
+    "tableDeclaration": {
+        "type": "AskItServices", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 30, 
+            "line": 1
+        }, 
+        "name": "AskItServices"
+    }, 
+    "key": "01p200000046l99AAA", 
+    "variables": [], 
+    "id": "01p200000046l99AAA", 
+    "methods": []
+}
